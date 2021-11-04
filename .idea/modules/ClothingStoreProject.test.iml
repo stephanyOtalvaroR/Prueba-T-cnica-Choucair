@@ -189,5 +189,4 @@
     <orderEntry type="library" name="Gradle: org.apache.pdfbox:fontbox:2.0.8" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jruby:jruby-complete:1.7.26" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="ClothingStoreProject.main" />
 </module>
